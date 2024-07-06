@@ -1,5 +1,5 @@
+
 {
-  "isActive": true,
-  "hasPermission": false,
-  "isVerified": true
+  "cedar":true,
+  "bluefin":true
 }
